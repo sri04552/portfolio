@@ -18,8 +18,6 @@ It includes sections like Home, About, Skills, Projects, and Contact.
 - HTML5
 - CSS3
 - Bootstrap
-- JavaScript (ES6+)
-- React.js
 
 ## How to Run
 
